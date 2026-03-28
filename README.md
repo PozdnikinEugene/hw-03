@@ -24,15 +24,13 @@
 
 ### Задание 1
 
-![Item](https://github.com/PozdnikinEugene/hw-03/blob/main/img/2-3-1.png)
-
+![Item](https://github.com/PozdnikinEugene/hw-03/blob/main/img/1-1.png)
 
 ---
 
 ### Задание 2-3
 Одновременно нельзя поставить несколько templates с одинаковыми item, поэтому остается только мой кастомный.
-![Host](https://github.com/PozdnikinEugene/hw-03/blob/main/img/1-1.png)
-
+![Host](https://github.com/PozdnikinEugene/hw-03/blob/main/img/2-3-1.png)
 ---
 
 ### Задание 4
